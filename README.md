@@ -3,3 +3,6 @@ A simple game of paper rock scissors. The program asks the user for an input giv
 The program was executed using the Python language
 The libraries used are: 
 Random
+
+Tech: 
+python3
